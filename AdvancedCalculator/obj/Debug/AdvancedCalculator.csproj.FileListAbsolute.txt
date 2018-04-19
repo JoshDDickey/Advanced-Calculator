@@ -1,0 +1,14 @@
+C:\Users\JoshDickey\source\repos\AdvancedCalculator\AdvancedCalculator\bin\Debug\AdvancedCalculator.exe.config
+C:\Users\JoshDickey\source\repos\AdvancedCalculator\AdvancedCalculator\bin\Debug\AdvancedCalculator.exe
+C:\Users\JoshDickey\source\repos\AdvancedCalculator\AdvancedCalculator\bin\Debug\AdvancedCalculator.pdb
+C:\Users\JoshDickey\source\repos\AdvancedCalculator\AdvancedCalculator\obj\Debug\AdvancedCalculator.csprojResolveAssemblyReference.cache
+C:\Users\JoshDickey\source\repos\AdvancedCalculator\AdvancedCalculator\obj\Debug\AdvancedCalculator.csproj.CoreCompileInputs.cache
+C:\Users\JoshDickey\source\repos\AdvancedCalculator\AdvancedCalculator\obj\Debug\AdvancedCalculator.exe
+C:\Users\JoshDickey\source\repos\AdvancedCalculator\AdvancedCalculator\obj\Debug\AdvancedCalculator.pdb
+C:\Users\JoshDickey\source\repos\AdvancedCalculator2.0\AdvancedCalculator\bin\Debug\AdvancedCalculator.exe.config
+C:\Users\JoshDickey\source\repos\AdvancedCalculator2.0\AdvancedCalculator\bin\Debug\AdvancedCalculator.exe
+C:\Users\JoshDickey\source\repos\AdvancedCalculator2.0\AdvancedCalculator\bin\Debug\AdvancedCalculator.pdb
+C:\Users\JoshDickey\source\repos\AdvancedCalculator2.0\AdvancedCalculator\obj\Debug\AdvancedCalculator.csprojResolveAssemblyReference.cache
+C:\Users\JoshDickey\source\repos\AdvancedCalculator2.0\AdvancedCalculator\obj\Debug\AdvancedCalculator.csproj.CoreCompileInputs.cache
+C:\Users\JoshDickey\source\repos\AdvancedCalculator2.0\AdvancedCalculator\obj\Debug\AdvancedCalculator.exe
+C:\Users\JoshDickey\source\repos\AdvancedCalculator2.0\AdvancedCalculator\obj\Debug\AdvancedCalculator.pdb
